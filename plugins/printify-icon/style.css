@@ -1,0 +1,329 @@
+@font-face {
+	font-family: "   Sulekh Laser-icon";
+	src: url("fonts/   Sulekh Laser-icon6092.eot?hce66p");
+	src: url("fonts/   Sulekh Laser-icon6092.eot?hce66p#iefix")
+			format("embedded-opentype"),
+		url("fonts/   Sulekh Laser-icon6092.ttf?hce66p") format("truetype"),
+		url("fonts/   Sulekh Laser-icon6092.woff?hce66p") format("woff"),
+		url("fonts/   Sulekh Laser-icon6092.svg?hce66p#   Sulekh Laser-icon")
+			format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="   Sulekh Laser-icon-"],
+[class*="    Sulekh Laser-icon-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: "   Sulekh Laser-icon" !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+. Sulekh Laser-icon-artboard:before {
+	content: "\e900";
+}
+. Sulekh Laser-icon-big-bag-with-handles:before {
+	content: "\e901";
+}
+. Sulekh Laser-icon-big-box:before {
+	content: "\e902";
+}
+. Sulekh Laser-icon-big-brochure:before {
+	content: "\e903";
+}
+. Sulekh Laser-icon-big-clip:before {
+	content: "\e904";
+}
+. Sulekh Laser-icon-big-folder:before {
+	content: "\e905";
+}
+. Sulekh Laser-icon-big-mug:before {
+	content: "\e906";
+}
+. Sulekh Laser-icon-big-paint-roller:before {
+	content: "\e907";
+}
+. Sulekh Laser-icon-billboard-with-text:before {
+	content: "\e908";
+}
+. Sulekh Laser-icon-blank-paper:before {
+	content: "\e909";
+}
+. Sulekh Laser-icon-bottle-of-glue:before {
+	content: "\e90a";
+}
+. Sulekh Laser-icon-brochure-folded:before {
+	content: "\e90b";
+}
+. Sulekh Laser-icon-cd-box:before {
+	content: "\e90c";
+}
+. Sulekh Laser-icon-cello-tape:before {
+	content: "\e90d";
+}
+. Sulekh Laser-icon-chromatic-circle:before {
+	content: "\e90e";
+}
+. Sulekh Laser-icon-circular-sticker:before {
+	content: "\e90f";
+}
+. Sulekh Laser-icon-classic-folder:before {
+	content: "\e910";
+}
+. Sulekh Laser-icon-classic-stappler:before {
+	content: "\e911";
+}
+. Sulekh Laser-icon-closed-book:before {
+	content: "\e912";
+}
+. Sulekh Laser-icon-cmyk-circles:before {
+	content: "\e913";
+}
+. Sulekh Laser-icon-computer-monitor-back-view:before {
+	content: "\e914";
+}
+. Sulekh Laser-icon-continuous-feed-paper:before {
+	content: "\e915";
+}
+. Sulekh Laser-icon-crop-symbol:before {
+	content: "\e916";
+}
+. Sulekh Laser-icon-cube-template:before {
+	content: "\e917";
+}
+. Sulekh Laser-icon-cutter-with-lines:before {
+	content: "\e918";
+}
+. Sulekh Laser-icon-drawing-pens:before {
+	content: "\e919";
+}
+. Sulekh Laser-icon-dropper-with-liquid:before {
+	content: "\e91a";
+}
+. Sulekh Laser-icon-empty-box-open:before {
+	content: "\e91b";
+}
+. Sulekh Laser-icon-envelope-back-side:before {
+	content: "\e91c";
+}
+. Sulekh Laser-icon-fabric-paint:before {
+	content: "\e91d";
+}
+. Sulekh Laser-icon-first-printer:before {
+	content: "\e91e";
+}
+. Sulekh Laser-icon-fountain-pen:before {
+	content: "\e91f";
+}
+. Sulekh Laser-icon-glue-stick:before {
+	content: "\e920";
+}
+. Sulekh Laser-icon-hanging-billboard:before {
+	content: "\e921";
+}
+. Sulekh Laser-icon-inclilned-paint-brush:before {
+	content: "\e922";
+}
+. Sulekh Laser-icon-inclined-book:before {
+	content: "\e923";
+}
+. Sulekh Laser-icon-inclined-eraser:before {
+	content: "\e924";
+}
+. Sulekh Laser-icon-inclined-lead:before {
+	content: "\e925";
+}
+. Sulekh Laser-icon-inclined-marker:before {
+	content: "\e926";
+}
+. Sulekh Laser-icon-inclined-pen:before {
+	content: "\e927";
+}
+. Sulekh Laser-icon-inclined-pencil:before {
+	content: "\e928";
+}
+. Sulekh Laser-icon-inclined-pendrive:before {
+	content: "\e929";
+}
+. Sulekh Laser-icon-ink-cartirdge:before {
+	content: "\e92a";
+}
+. Sulekh Laser-icon-ink-drops:before {
+	content: "\e92b";
+}
+. Sulekh Laser-icon-ink-level:before {
+	content: "\e92c";
+}
+. Sulekh Laser-icon-inkwell:before {
+	content: "\e92d";
+}
+. Sulekh Laser-icon-letter-t-on-rectangle:before {
+	content: "\e92e";
+}
+. Sulekh Laser-icon-long-envelope:before {
+	content: "\e92f";
+}
+. Sulekh Laser-icon-magnifier-len:before {
+	content: "\e930";
+}
+. Sulekh Laser-icon-milk-box:before {
+	content: "\e931";
+}
+. Sulekh Laser-icon-newspaper-folded:before {
+	content: "\e932";
+}
+. Sulekh Laser-icon-notebook-with-rings:before {
+	content: "\e933";
+}
+. Sulekh Laser-icon-notepad-with-text:before {
+	content: "\e934";
+}
+. Sulekh Laser-icon-office-photocopier:before {
+	content: "\e935";
+}
+. Sulekh Laser-icon-office-scanner:before {
+	content: "\e936";
+}
+. Sulekh Laser-icon-old-camera:before {
+	content: "\e937";
+}
+. Sulekh Laser-icon-old-printer:before {
+	content: "\e938";
+}
+. Sulekh Laser-icon-one-pine:before {
+	content: "\e939";
+}
+. Sulekh Laser-icon-open-book:before {
+	content: "\e93a";
+}
+. Sulekh Laser-icon-open-book-1:before {
+	content: "\e93b";
+}
+. Sulekh Laser-icon-paint-can-open:before {
+	content: "\e93c";
+}
+. Sulekh Laser-icon-pantone:before {
+	content: "\e93d";
+}
+. Sulekh Laser-icon-paper-drill:before {
+	content: "\e93e";
+}
+. Sulekh Laser-icon-paper-guillotine:before {
+	content: "\e93f";
+}
+. Sulekh Laser-icon-paper-pad:before {
+	content: "\e940";
+}
+. Sulekh Laser-icon-paper-roll:before {
+	content: "\e941";
+}
+. Sulekh Laser-icon-paper-roll-1:before {
+	content: "\e942";
+}
+. Sulekh Laser-icon-paper-tray:before {
+	content: "\e943";
+}
+. Sulekh Laser-icon-pencil-and-ruler-crossed:before {
+	content: "\e944";
+}
+. Sulekh Laser-icon-pencil-box:before {
+	content: "\e945";
+}
+. Sulekh Laser-icon-pencil-can:before {
+	content: "\e946";
+}
+. Sulekh Laser-icon-pencil-sharpener:before {
+	content: "\e947";
+}
+. Sulekh Laser-icon-press:before {
+	content: "\e948";
+}
+. Sulekh Laser-icon-printer-without-paper:before {
+	content: "\e949";
+}
+. Sulekh Laser-icon-printing-document:before {
+	content: "\e94a";
+}
+. Sulekh Laser-icon-printing-text:before {
+	content: "\e94b";
+}
+. Sulekh Laser-icon-print-mark:before {
+	content: "\e94c";
+}
+. Sulekh Laser-icon-print-mark-1:before {
+	content: "\e94d";
+}
+. Sulekh Laser-icon-protactor-measuring:before {
+	content: "\e94e";
+}
+. Sulekh Laser-icon-recycling-sign:before {
+	content: "\e94f";
+}
+. Sulekh Laser-icon-ring-calendar:before {
+	content: "\e950";
+}
+. Sulekh Laser-icon-road-billboard:before {
+	content: "\e951";
+}
+. Sulekh Laser-icon-rubber-stamp:before {
+	content: "\e952";
+}
+. Sulekh Laser-icon-school-compass:before {
+	content: "\e953";
+}
+. Sulekh Laser-icon-scissors-and-cutout-lines:before {
+	content: "\e954";
+}
+. Sulekh Laser-icon-shopping-paper-bag:before {
+	content: "\e955";
+}
+. Sulekh Laser-icon-size-square:before {
+	content: "\e956";
+}
+. Sulekh Laser-icon-stapler:before {
+	content: "\e957";
+}
+. Sulekh Laser-icon-staple-remover:before {
+	content: "\e958";
+}
+. Sulekh Laser-icon-street-bin:before {
+	content: "\e959";
+}
+. Sulekh Laser-icon-tablet-with-pen:before {
+	content: "\e95a";
+}
+. Sulekh Laser-icon-three-pins:before {
+	content: "\e95b";
+}
+. Sulekh Laser-icon-transform-square:before {
+	content: "\e95c";
+}
+. Sulekh Laser-icon-t-shirt-with-square:before {
+	content: "\e95d";
+}
+. Sulekh Laser-icon-two-crayons:before {
+	content: "\e95e";
+}
+. Sulekh Laser-icon-vector-lines:before {
+	content: "\e95f";
+}
+. Sulekh Laser-icon-vinyl-printer:before {
+	content: "\e960";
+}
+. Sulekh Laser-icon-white-out:before {
+	content: "\e961";
+}
+. Sulekh Laser-icon-white-sheets:before {
+	content: "\e962";
+}
+. Sulekh Laser-icon-wrapped-package:before {
+	content: "\e963";
+}
